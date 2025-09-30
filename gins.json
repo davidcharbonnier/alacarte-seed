@@ -1,0 +1,74 @@
+{
+  "gins": [
+    {
+      "name": "Ungava",
+      "producer": "Les Spiritueux Ungava",
+      "origin": "Quebec",
+      "profile": "Forestier / boréal",
+      "description": "Ungava révèle un style à la fois vif, moelleux, frais et floral. La baie d'églantier est associée à la camarine noire, le thé du Labrador, la ronce petit-mûrier, le mélange de l'Arctique et le genévrier nordique afin de former une sélection unique d'herbes et de baies, 100 % naturelles procurant à ce gin ses arômes envoûtants."
+    },
+    {
+      "name": "Menaud Gin",
+      "producer": "Distillerie Menaud",
+      "origin": "Charlevoix",
+      "profile": "Forestier / boréal",
+      "description": "Une des rares à persister dans sa démarche, la distillerie Menaud réalise son gin « du grain à la bouteille ». L'alcool de base est donc issu de la fermentation de céréales provenant de l'Îsle-aux-Coudres, distillé ensuite en présence d'aromates de la région de Charlevoix. Véritable gin de méditation, le mariage impliquant notamment la salicorne, le sumac, la baie de sureau, le carvi sauvage, l'épine vinette, l'épinette noire et le poivre des dunes est tout à fait sublime."
+    },
+    {
+      "name": "Km12",
+      "producer": "Distillerie du Fjord",
+      "origin": "Saguenay-Lac-Saint-Jean",
+      "profile": "Forestier / boréal",
+      "description": "Au kilomètre 12 du chemin des Monts-Valin s'écoule une eau de source naturelle d'une pureté incroyable. C'est en plein cœur de cet environnement sauvage que la flore nous révèle toute sa richesse. Inspiré de cette nature et distillé en petits lots à la Distillerie du Fjord, le gin km12 vous fera vivre une authentique expérience de la forêt boréale. Notre gin se démarquera par sa vivacité et par sa fraîcheur provenant des arômes épicés, des effluves de pousses de sapin et de subtiles notes florales."
+    },
+    {
+      "name": "Romeo's Gin",
+      "producer": "Michel Jodoin",
+      "origin": "Montreal",
+      "profile": "Herbacé / végétal",
+      "description": "Au sommet des ventes des gins de la province, Roméo occupe une place de choix dans le cœur et le verre des Québécois. Habitué de nous en mettre plein la vue sur ses étiquettes avec des œuvres d'artistes contemporains d'ici et d'ailleurs, l'entreprise récidive avec un magnifique flacon."
+    },
+    {
+      "name": "Bleu Royal",
+      "producer": "Distillerie Wabasso",
+      "origin": "Trois-Rivières",
+      "profile": "Floral",
+      "description": "Il porte bien son nom et son succès ne s'essouffle pas. Si d'autres ont tenté l'aventure dans les gins colorés, c'est celui-ci qui continue de nous charmer. Sa couleur 100 % naturelle provient de la fleur de pois papillon, mais c'est l'iris et la lavande qui distinguent son bouquet. Tournant au rose lorsqu'on le combine à de l'eau tonique, c'est un incontournable à avoir dans son bar pour s'amuser en mixologie."
+    },
+    {
+      "name": "Mugo",
+      "producer": "Distillerie Mitis",
+      "origin": "Gaspésie",
+      "profile": "Forestier / boréal",
+      "description": "Cueilli à la main aux Jardins de Métis, le pin montagnard (Pinus mugo) est mis en vedette dans le Gin Mugo. Accompagnés de poivre des dunes et d'argousiers, ils confèrent un équilibre entre les notes résineuses, les arômes légèrement épicés et une fraîcheur remarquable. Le résultat offre une polyvalence hors pair qui conviendra autant à vos cocktails classiques qu'aux essais les plus créatifs."
+    },
+    {
+      "name": "Cherry River Floral",
+      "producer": "Distillerie Cherry River",
+      "origin": "Estrie",
+      "profile": "Floral",
+      "description": "Distillerie des Cantons de l'Est, elle réunit dans ce flacon les parfums résineux de la baie de genièvre à plusieurs aromates de la flore québécoise. Ainsi, fleur de sureau, violette odorante, lavande et rose sauvage de Kamouraska se combinent dans ce gin à la fois fin, complexe et équilibré. Une corde supplémentaire à l'arc de l'auteur-compositeur-interprète Marc Dupré, copropriétaire de la distillerie avec son gérant Francis Delage."
+    },
+    {
+      "name": "Cirka Navy Strength",
+      "producer": "Distillerie Cirka",
+      "origin": "Montreal",
+      "profile": "Épicé",
+      "description": "L'élevage en fût pour un gin rejoint sûrement plus l'amateur de whisky, mais une vie ne peut être complète si on n'a pas dégusté au moins une fois le « Navy Strength » de Cirka. La très sympathique distillatrice Isabelle Rochette fait ici honneur à un style de gin historiquement puissant en alcool. Une macération d'oranges douces couplée à un élevage en fût de whisky de maïs en font un gin de dégustation incontournable."
+    },
+    {
+      "name": "St-Laurent",
+      "producer": "Distillerie du St. Laurent",
+      "origin": "Rimouski",
+      "profile": "Épicé",
+      "description": "St. Laurent Gin est un souffle d'air marin, avec des notes herbacées et florales puissantes entrecoupées d'un arôme de pin rappelant la forêt boréale québécoise. C'est un gin complexe né d'une union improbable d'épices des quatre coins du monde et d'algues laminaires du fleuve Saint-Laurent. Distillé en petits lots à Rimouski, c'est un gin artisanal entièrement naturel fait à la main."
+    },
+    {
+      "name": "Gin du Jardin Méditerranéen",
+      "producer": "Distillerie du Square",
+      "origin": "Outaouais",
+      "profile": "Herbacé / végétal",
+      "description": "Ce beau gin québécois nous amène ailleurs. Raffiné et concocté avec des ingrédients trouvés dans le parc de la Gatineau. Frais, herbacé et légèrement acidulé, c'est un produit parfait pour se familiariser avec la grande famille des gins et découvrir les aromates que l'Outaouais cache dans ses forêts. Avec ses notes d'huile d'olive et son onctuosité, il est parfait pour vos martinis."
+    }
+  ]
+}
